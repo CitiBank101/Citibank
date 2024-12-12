@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "sender": "johndoe",
+    "receiver": "janesmith",
+    "amount": 1000,
+    "date": "2024-12-03"
+  }
+]

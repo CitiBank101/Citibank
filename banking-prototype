@@ -1,0 +1,7 @@
+/banking-prototype
+  |-- index.html
+  |-- style.css
+  |-- script.js
+  |-- data
+      |-- users.json
+      |-- transactions.json
